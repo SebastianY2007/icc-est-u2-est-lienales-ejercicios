@@ -24,6 +24,4 @@ class SignValidator:
                 if pares[char] != ultimo:
                     return False
 
-
-
         return len(stack) == 0
